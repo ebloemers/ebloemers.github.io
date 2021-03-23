@@ -34,6 +34,7 @@ h3{
   margin-bottom: 10px;
   font-family: "Merriweather", serif;
   color: #303030;
+  text-align: center;
 }
 
 
@@ -45,6 +46,7 @@ p{
   text-align: center;
   line-height: 1.5;
   color: #303030;
+  text-align: center;
 }
 
 ul{
