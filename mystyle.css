@@ -1,0 +1,79 @@
+body {
+  width: 960px;
+  background-color: #FFFDEE;
+  font-family: Helvetica, Arial, sans-serif;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+h1 {
+  display: center;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 20px;
+  font-size: 60px;
+  font-family: "Merriweather", serif;
+  color: #303030;
+}
+
+h2{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  color: #303030;
+
+}
+
+h3{
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-family: "Merriweather", serif;
+  color: #303030;
+}
+
+
+p{
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: "Merriweather", serif;
+  text-align: center;
+  line-height: 1.5;
+  color: #303030;
+}
+
+ul{
+  font-size: 20px;
+  font-family: "Merriweather", serif;
+  line-height: 1.5;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  color: #303030;
+}
+
+nav{
+  border: 1px solid #303030;
+  border-width: 1px 0;
+  margin: 20px;
+  margin-bottom: 30px;
+  padding: 10px;
+  text-align: center;
+  word-spacing: 100px;
+  color: #303030;
+}
+nav li{
+  display: inline;
+}
+
+a:link {
+  text-decoration: none;
+  color: #353535;
+  font-size: 18px;
+  font-family: "Merriweather", serif;
+  color: #303030;
+}
